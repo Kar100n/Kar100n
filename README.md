@@ -12,7 +12,7 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/tejas-shrivastav-3b51b3171/)
 
 ## Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/tejas-shrivastav-3b51b3171)
+<a href="https://linkedin.com/in/tejas-shrivastav-3b51b3171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-shrivastav-3b51b3171" height="20" width="30" /></a>
 
 ## Languages and Tools:
 ![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
