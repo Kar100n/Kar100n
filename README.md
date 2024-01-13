@@ -13,6 +13,7 @@
 
 ## Connect with me:
 <a href="https://linkedin.com/in/tejas-shrivastav-3b51b3171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas-shrivastav-3b51b3171" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tejas_shrivastav_?igsh=cGNwaTdqcjljbXhl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasshrivastav" height="30" width="30" /></a>
 
 ## Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" width="40"/>
