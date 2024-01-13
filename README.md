@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Tejas Shrivastv
+# Hi 👋, I'm Tejas Shrivastav
 
 ## A Passionate Cloud Engineer Enthusiast from India
 
