@@ -4,7 +4,7 @@
 
 ## A Passionate Cloud Engineer Enthusiast from India
 
-- 🔭 Currently working on **College Project**
+- 🔭 Currently working in **Xenonstalk as Associate Software Engineer intern**
 - 🌱 Learning **AWS Solution Architect Professional**
 - 🤝 Looking for help with **Cloud Services and DevOps**
 - 💬 Ask me about **Cloud, DevOps, Movies, Literature**
