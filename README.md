@@ -5,7 +5,7 @@
 ## A Passionate Cloud Engineer Enthusiast from India
 
 - 🔭 Currently working in **Xenonstalk as Associate Software Engineer intern**
-- 🌱 Learning **AWS Solution Architect Professional**
+- 🌱 Certified **AWS Solution Architect Professional**(https://www.credly.com/badges/e82591cf-cecd-4625-a13f-89d1c49b0f42/linked_in_profile")
 - 🤝 Looking for help with **Cloud Services and DevOps**
 - 💬 Ask me about **Cloud, DevOps, Movies, Literature**
 - 📫 How to reach me: [Tejasshrivastav@icloud.com](mailto:Tejasshrivastav@icloud.com)
