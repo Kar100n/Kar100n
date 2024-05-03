@@ -4,7 +4,7 @@
 
 ## A Passionate Cloud Engineer Enthusiast from India
 
-- 🔭 Currently working in **Xenonstalk as Associate Software Engineer intern**
+- 🔭 Currently working in **Xenonstack as Associate Software Engineer intern**
 - 🌱 Certified **AWS Solution Architect Professional**:[Certificate](https://www.credly.com/badges/e82591cf-cecd-4625-a13f-89d1c49b0f42/linked_in_profile")
 - 🤝 Looking for help with **Cloud Services and DevOps**
 - 💬 Ask me about **Cloud, DevOps, Movies, Literature**
